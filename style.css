@@ -10,7 +10,7 @@ html,body{
     font-family: 'Montserrat', sans-serif;
     /* background-image: url("Back.png"); */
     /* background-image: url("Back0.jpg"); */
-    background-image: url("Back19.jpg");
+    background-image: url("Back01.jpg");
     background-size:cover;
     background-attachment: fixed;
     /* background-repeat: no-repeat;
@@ -203,7 +203,7 @@ span.l4{
     font-size: 120%;
     height: auto;
     color: rgb(12, 18, 36);
-    background-image: url("Back13.jfif");
+    background-image: url("Back02.jfif");
     background-size: cover;
     border-radius: 30px;
     /* background-color: rgb(32, 32, 32); */
@@ -230,7 +230,7 @@ span.l4{
     width: 73%;
     height: auto;
     /* background-color: antiquewhite; */
-    background-image: url("Back13.jfif");
+    background-image: url("Back02.jfif");
     background-size: cover;
     /* opacity: 25%; */
     border-radius: 50px;
